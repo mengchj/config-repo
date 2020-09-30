@@ -7,4 +7,4 @@ spring:
     password: root
     url: jdbc:mysql://127.0.0.1:3306/SpringCloudShell?characterEncoding=utf-8&useSSL=false
 env:
-  test1
+  test2
