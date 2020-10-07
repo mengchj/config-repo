@@ -6,7 +6,7 @@ zuul:
       serviceId: product
       #cookies等有效
       sensitiveHeaders:
-#简洁写法1
+#简洁写法2
 #    product: /myProduct/**
 
     #排除指定路由
