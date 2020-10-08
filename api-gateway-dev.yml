@@ -1,4 +1,5 @@
 zuul:
+  sensitive-headers: 
   routes:
     #myProduct/list 路由到 product/list
     myProduct:
